@@ -1,0 +1,33 @@
+html body, html h1, html h2, html h3, html h4, html h5, html h6, html hr, html p, html blockquote, html dl, html dt, html dd, html ul, html ol, html li, html pre, html form, html fieldset, html legend, html button, html input, html textarea, html th, html td {
+  margin: 0;
+  padding: 0; }
+html body, html button, html input, html select, html textarea {
+  font: 12px/1.5tahoma, arial, \5b8b\4f53; }
+html h1, html h2, html h3, html h4, html h5, html h6 {
+  font-size: 100%; }
+html address, html cite, html dfn, html em, html var {
+  font-style: normal; }
+html code, html kbd, html pre, html samp {
+  font-family: couriernew, courier, monospace; }
+html small {
+  font-size: 12px; }
+html ul, html ol {
+  list-style: none; }
+html a {
+  text-decoration: none; }
+html a:hover {
+  text-decoration: underline; }
+html sup {
+  vertical-align: text-top; }
+html sub {
+  vertical-align: text-bottom; }
+html legend {
+  color: #000; }
+html fieldset, html img {
+  border: 0; }
+html button, html input, html select, html textarea {
+  font-size: 100%; }
+html table {
+  border-collapse: collapse;
+  border-spacing: 0; }
+

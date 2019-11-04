@@ -1,0 +1,44 @@
+{
+  "id": "1489072",
+  "name": "大米",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1020838",
+      "name": "app",
+      "font_class": "app",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "1288646",
+      "name": "个人中心",
+      "font_class": "gerenzhongxin",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "1301354",
+      "name": "扳手",
+      "font_class": "banshou",
+      "unicode": "e659",
+      "unicode_decimal": 58969
+    },
+    {
+      "icon_id": "5877545",
+      "name": "购物车",
+      "font_class": "biaoqing",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    },
+    {
+      "icon_id": "8605730",
+      "name": "客服",
+      "font_class": "kefu",
+      "unicode": "e665",
+      "unicode_decimal": 58981
+    }
+  ]
+}
